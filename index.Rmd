@@ -1,0 +1,47 @@
+---
+title: "Anugil Velayudhan"
+site: distill::distill_website
+output:
+  distill::distill_article:
+    css: index.css
+---
+
+<!-- IPA -->
+<div class="ipa" style="font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 18px; color: black; margin-top: 8px;">
+  [ˈan̪uɡil ˈʋeːlaːjud̪ʱan]
+</div>
+
+<br/>
+
+
+<div class="container" style="text-align: center;">
+
+  <!-- Profile Image -->
+  <img src="Images/Anugil.jpg" alt="Anugil Velayudhan" class="profile-pic" style="border-radius: 20px; width: 200px;" />
+
+  <!-- Tagline below image -->
+ <div style="font-family: 'Times New Roman', Times, serif; font-weight: bold; font-size: 18px; margin-top: 10px;">
+  Phonetician | Programmer | Photographer
+</div>
+
+  <!-- Social Icons with Original Colors -->
+<div class="social-icons" style="margin-top: 20px; text-align: center;">
+  <a href="https://twitter.com/anugilv" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" />
+  </a>
+  <a href="https://github.com/anugilv" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/anugilv1996" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/share/19Ct6fnwkS/" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/chomskianz?igsh=MWUwcW9mcHZpMDVyYQ==" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" />
+  </a>
+  <a href="mailto:anugilv96@email.com" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/color/48/apple-mail.png" alt="Email" />
+  </a>
+</div>
