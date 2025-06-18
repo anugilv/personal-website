@@ -1,0 +1,37 @@
+---
+title: "🛠️ Workshops"
+site: distill::distill_website
+output:
+  distill::distill_article:
+    css: workshops.css
+---
+
+<div class="workshop-card">
+  <h3>Three-Day National Level Training Programme on ‘Forensic Linguistics: Language & Crime’</h3>
+  <p><strong>📍 Department of Linguistics,  Bharathiar University, India.</strong></p>
+  <p><em>🗓️ 08–10 Jan 2024</em></p>
+</div>
+
+<div class="workshop-card">
+  <h3>ACTL Summer School 2023 – Advanced Core Training in Linguistics</h3>
+  <p><strong>📍 Department of Language and Linguistic Science, University of York, UK.</strong></p>
+  <p><em>🗓️ 26–30 June 2023</em></p>
+</div>
+
+<div class="workshop-card">
+  <h3>Workshop on ‘Language Description and Documentation: Techniques and Technologies’</h3>
+  <p><strong>📍 UGC-Centre for Endangered Languages, Department of Linguistics, University of Kerala, India.</strong></p>
+  <p><em>🗓️ 29–31 Jan 2020</em></p>
+</div>
+
+<div class="workshop-card">
+  <h3>Seminar on ‘Ancient Numericals and Measures in South India’</h3>
+  <p><strong>📍 Oriental Research Institute and Manuscripts Library, University of Kerala, India.</strong></p>
+  <p><em>🗓️ 19–21 Nov 2019</em></p>
+</div>
+
+<div class="workshop-card">
+  <h3>Seminar on ‘Early Christian Missionaries’ Contribution to Journalism in India’</h3>
+  <p><strong>📍 Christian Study Centre for Cultural and Social Change, Department of Linguistics, University of Kerala, India.</strong></p>
+  <p><em>🗓️ 08–10 Jan 2019</em></p>
+</div>

@@ -1,0 +1,42 @@
+---
+title: "🎓 Education"
+site: distill::distill_website
+output:
+  distill::distill_article:
+    css: education.css
+---
+<h4><strong>MSc Forensic Phonetics</strong> <span class="edu-date"> | 2022–2023(25) </span></h4>
+
+<p>
+
+  Department of Language and Linguistic Science<br/>
+  University of York, Heslington, England.<br/>
+  
+</p>
+
+<h4><strong>MPhil Linguistics</strong> <span class="edu-date"> | 2021–2022</span></h4>
+
+<p>
+
+  Department of Linguistics, Kariavattom Campus<br/>
+  University of Kerala, Thiruvananthapuram, India.<br/>
+  
+</p>
+
+<h4><strong>MA Linguistics</strong> <span class="edu-date"> | 2018–2020</span></h4>
+
+<p>
+
+  Department of Linguistics, Kariavattom Campus <br/>
+  University of Kerala, Thiruvananthapuram, India.<br/>
+  
+</p>
+
+<h4><strong>BSc Chemistry</strong> <span class="edu-date"> | 2013–2016</span></h4>
+
+<p>
+
+  Department of Chemistry, Government College Chittur <br/>
+  University of Calicut, Malappuram, India.<br/>
+  
+</p> 

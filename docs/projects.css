@@ -1,0 +1,35 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  background-color: #fff;
+  color: #111;
+}
+
+.project-card {
+  border: 1px solid #ccc;
+  padding: 10px 15px;
+  margin: 12px 0;
+  border-radius: 5px;
+  background-color: #f8f8f8;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.05);
+  max-width: 700px;
+}
+
+.project-card h3 {
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #003366;
+}
+
+.project-card .subtitle {
+  font-size: 14px;
+  color: #444;
+  margin-bottom: 8px;
+  font-style: italic;
+}
+
+.project-card ul {
+  margin: 0 0 0 20px;
+  padding: 0;
+  list-style-type: disc;
+}

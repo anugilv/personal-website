@@ -1,0 +1,50 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Center align the title and ipa */
+h1, /* assuming your title is an h1 element */
+.ipa {
+  text-align: center;
+}
+
+.profile-pic {
+  border-radius: 30px;
+  width: 210px;
+}
+
+.social-icons img {
+  margin: 0 6px;
+  vertical-align: middle;
+}
+
+.tagline {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.ipa {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+  margin-top: 8px;
+  /* add center alignment */
+  text-align: center;
+}
+
+/* you can remove duplicate .tagline definition or combine */
+.tagline {
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 10px;
+  text-align: center; /* ensure center alignment */
+}
+
+.social-icons img {
+  margin: 0 8px;
+}

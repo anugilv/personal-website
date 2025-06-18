@@ -1,0 +1,40 @@
+---
+title: "📚 Projects"
+site: distill::distill_website
+output:
+  distill::distill_article:
+    css: projects.css
+---
+
+<div class="project-card">
+  <h3>🧏‍♂️ Language Teaching and Learning Methods among Hearing-Impaired Students in Kerala</h3>
+  <p class="subtitle"><strong>MPhil Thesis, 2022</strong></p>
+  <ul>
+    <li>Exploratory research using <strong>methodological pluralism</strong>: ethnographic and case study methods.</li>
+    <li>Designed and administered a comprehensive questionnaire in three schools across Kerala.</li>
+    <li>Collected insights from hearing-impaired students and their teachers.</li>
+    <li>Transcribed recorded interviews for <strong>interpretative and descriptive analysis</strong>.</li>
+    <li>Uncovered patterns in teaching and learning strategies in inclusive education contexts.</li>
+  </ul>
+</div>
+
+<div class="project-card">
+  <h3>🦠 Coronavirus Infectious Disease Ontology from Malayalam Data Set</h3>
+  <p class="subtitle"><strong>Aspire Scholarship Project, 2021</strong></p>
+  <ul>
+    <li>Compiled a comprehensive <strong>Malayalam COVID-19 text corpus</strong> focused on linguistic and thematic relevance.</li>
+    <li>Conducted <strong>text preprocessing</strong>: tokenization, stemming, lemmatization, and n-gram modeling.</li>
+    <li>Prepared the dataset for <strong>computational linguistic analysis</strong> and ontology development.</li>
+  </ul>
+</div>
+
+<div class="project-card">
+  <h3>📰 Lexemes of COVID-19: A Linguistics Study Based on Newspapers in Kerala</h3>
+  <p class="subtitle"><strong>MA Dissertation, 2020</strong></p>
+  <ul>
+    <li>Qualitative research using <strong>descriptive analysis</strong> to examine COVID-19-related linguistic patterns.</li>
+    <li>Systematically sampled data from a time series of Malayalam newspapers.</li>
+    <li>Executed <strong>classification and analysis</strong> of pandemic-related lexemes.</li>
+    <li>Yielded insights into how media language evolved during the crisis.</li>
+  </ul>
+</div>
