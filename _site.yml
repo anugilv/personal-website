@@ -12,15 +12,15 @@ navbar:
     - text: "Academics"
       menu:
         - text: "Education"
-          href: education.html
+          href: Academics/Education/education.html
         - text: "Projects"
-          href: projects.html
+          href: Academics/Projects/projects.html
         - text: "Publications"
-          href: publications.html
+          href: Academics/Publications/publications.html
         - text: "Presentations"
-          href: presentations.html
+          href: Academics/Presentations/presentations.html
         - text: "Workshops"
-          href: workshops.html
+          href: Academics/Workshops/workshops.html
     - text: "Blogs"
       href: blogs.html
 output: distill::distill_article
