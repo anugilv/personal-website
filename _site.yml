@@ -6,21 +6,21 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: Index/index.html
+      href: index.html
     - text: "About"
-      href: About/about.html
+      href: about.html
     - text: "Academics"
       menu:
         - text: "Education"
-          href: Academics/Education/education.html
+          href: education.html
         - text: "Projects"
-          href: Academics/Projects/projects.html
+          href: projects.html
         - text: "Publications"
-          href: Academics/Publications/publications.html
+          href: publications.html
         - text: "Presentations"
-          href: Academics/Presentations/presentations.html
+          href: presentations.html
         - text: "Workshops"
-          href: Academics/Workshops/workshops.html
+          href: workshops.html
     - text: "Blogs"
       href: blogs.html
 output: distill::distill_article
