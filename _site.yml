@@ -6,9 +6,9 @@ output_dir: "docs"
 navbar:
   right:
     - text: "Home"
-      href: index.html
+      href: Index/index.html
     - text: "About"
-      href: about.html
+      href: About/about.html
     - text: "Academics"
       menu:
         - text: "Education"
