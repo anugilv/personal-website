@@ -2,46 +2,10 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-18T06:55:13+05:30"
-    },
-    {
-      "path": "education.html",
-      "title": "🎓 Education",
-      "author": [],
-      "contents": "\r\n\r\nMSc Forensic Phonetics  | 2022–2023(25) \r\n\r\n\r\nDepartment of Language and Linguistic Science\r\nUniversity of York, Heslington, England.\r\n\r\n\r\nMPhil Linguistics  | 2021–2022\r\n\r\n\r\nDepartment of Linguistics, Kariavattom Campus\r\nUniversity of Kerala, Thiruvananthapuram, India.\r\n\r\n\r\nMA Linguistics  | 2018–2020\r\n\r\n\r\nDepartment of Linguistics, Kariavattom Campus \r\nUniversity of Kerala, Thiruvananthapuram, India.\r\n\r\n\r\nBSc Chemistry  | 2013–2016\r\n\r\n\r\nDepartment of Chemistry, Government College Chittur \r\nUniversity of Calicut, Malappuram, India.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-18T07:00:17+05:30"
-    },
-    {
-      "path": "index.html",
-      "title": "Anugil Velayudhan",
-      "author": [],
-      "contents": "\r\n\r\n\r\n[ˈan̪uɡil ˈʋeːlaːjud̪ʱan]\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPhonetician | Programmer | Photographer\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-18T07:09:00+05:30"
-    },
-    {
-      "path": "presentations.html",
-      "title": "🎤 Presentations",
-      "author": [],
-      "contents": "\r\n\r\nVelayudhan, A. (2024, August 21–22).\r\nVariability in formant dynamics of long and short vowels in Malayalam.\r\n[Conference presentation]. International Seminar on AI and Large Language Models for Dravidian Languages, Department of Linguistics, Central University of Kerala, India.\r\n\r\n\r\nVelayudhan, A. (2022, January 12–14).\r\nA linguistic approach to the economic solidarity: The study on unorganised micro-enterprisers in Kerala tourism sector.\r\n[Conference presentation]. Web Conference on Cooperatives, Mutual Aid and Solidarity Economies, Department of Economics, University of Kerala, Thiruvananthapuram.\r\n\r\n\r\nVelayudhan, A. (2022, August 11–13).\r\nLexemes of COVID-19: A linguistics study based on newspapers in Kerala.\r\n[Conference presentation]. Three-day National Webinar on Current Trends in Literature and Linguistics, School of Indian Languages, ONV Memorial Academic Complex, University of Kerala.\r\n\r\n\r\nVelayudhan, A. (2021, March 14–18).\r\nA dive into the impacts of ‘The First Bell’ among tribal students.\r\n[Conference presentation]. Five-day National Webinar on COVID-19: Vulnerability, Adaptation and Capacity Building among Tribal Communities, Department of Sociology, University of Kerala & IIST, Thiruvananthapuram.\r\n\r\n\r\nVelayudhan, A. (2019, December 10–12).\r\nStylistic analysis of Slangyalam; Modern trends and propagations.\r\n[Conference presentation]. Three-day National Seminar on Current Trends in Language and Literature in India, School of Indian Languages, ONV Memorial Academic Complex, University of Kerala.\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-18T07:05:27+05:30"
-    },
-    {
-      "path": "projects.html",
-      "title": "📚 Projects",
-      "author": [],
-      "contents": "\r\n\r\n\r\n🧏‍♂️ Language Teaching and Learning Methods among Hearing-Impaired Students in Kerala\r\n\r\n\r\nMPhil Thesis, 2022\r\n\r\n\r\nExploratory research using methodological pluralism: ethnographic and case study methods.\r\n\r\n\r\nDesigned and administered a comprehensive questionnaire in three schools across Kerala.\r\n\r\n\r\nCollected insights from hearing-impaired students and their teachers.\r\n\r\n\r\nTranscribed recorded interviews for interpretative and descriptive analysis.\r\n\r\n\r\nUncovered patterns in teaching and learning strategies in inclusive education contexts.\r\n\r\n\r\n\r\n\r\n🦠 Coronavirus Infectious Disease Ontology from Malayalam Data Set\r\n\r\n\r\nAspire Scholarship Project, 2021\r\n\r\n\r\nCompiled a comprehensive Malayalam COVID-19 text corpus focused on linguistic and thematic relevance.\r\n\r\n\r\nConducted text preprocessing: tokenization, stemming, lemmatization, and n-gram modeling.\r\n\r\n\r\nPrepared the dataset for computational linguistic analysis and ontology development.\r\n\r\n\r\n\r\n\r\n📰 Lexemes of COVID-19: A Linguistics Study Based on Newspapers in Kerala\r\n\r\n\r\nMA Dissertation, 2020\r\n\r\n\r\nQualitative research using descriptive analysis to examine COVID-19-related linguistic patterns.\r\n\r\n\r\nSystematically sampled data from a time series of Malayalam newspapers.\r\n\r\n\r\nExecuted classification and analysis of pandemic-related lexemes.\r\n\r\n\r\nYielded insights into how media language evolved during the crisis.\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-18T07:05:37+05:30"
-    },
-    {
-      "path": "workshops.html",
-      "title": "🛠️ Workshops",
-      "author": [],
-      "contents": "\r\n\r\n\r\nThree-Day National Level Training Programme on ‘Forensic Linguistics: Language & Crime’\r\n\r\n\r\n📍 Department of Linguistics, Bharathiar University, India.\r\n\r\n\r\n🗓️ 08–10 Jan 2024\r\n\r\n\r\n\r\n\r\nACTL Summer School 2023 – Advanced Core Training in Linguistics\r\n\r\n\r\n📍 Department of Language and Linguistic Science, University of York, UK.\r\n\r\n\r\n🗓️ 26–30 June 2023\r\n\r\n\r\n\r\n\r\nWorkshop on ‘Language Description and Documentation: Techniques and Technologies’\r\n\r\n\r\n📍 UGC-Centre for Endangered Languages, Department of Linguistics, University of Kerala, India.\r\n\r\n\r\n🗓️ 29–31 Jan 2020\r\n\r\n\r\n\r\n\r\nSeminar on ‘Ancient Numericals and Measures in South India’\r\n\r\n\r\n📍 Oriental Research Institute and Manuscripts Library, University of Kerala, India.\r\n\r\n\r\n🗓️ 19–21 Nov 2019\r\n\r\n\r\n\r\n\r\nSeminar on ‘Early Christian Missionaries’ Contribution to Journalism in India’\r\n\r\n\r\n📍 Christian Study Centre for Cultural and Social Change, Department of Linguistics, University of Kerala, India.\r\n\r\n\r\n🗓️ 08–10 Jan 2019\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2025-06-18T07:05:47+05:30"
+      "contents": "\r\nBio\r\nMy name is Anugil Velayudhan, and I am from Palakkad, Kerala, India. I began my academic journey in the natural sciences, completing a B.Sc in Chemistry at Government College Chittur, Palakkad, in 2016. However, my academic interests took an unexpected yet intellectually rewarding turn when I developed a keen interest in language and linguistics.\r\nI went on to pursue an M.A. in Linguistics at the Department of Linguistics, University of Kerala and completed the programme in 2020. Immediately after, I continued with an M.Phil. in Linguistics at the same department. During these years, I had the opportunity to work in the department’s Phonetics Laboratory, where I gained practical experience in speech analysis.\r\nInitially, my research focused on qualitative aspects of language. However, I soon became aware of the critical gaps in phonetic studies in Malayalam, a Dravidian language and my mother tongue. This realization led me to shift my focus toward experimental phonetics and phonology, with an aim to contribute to the systematic and empirical study of underrepresented languages.\r\nTo further strengthen my research and analytical skills, I joined the MSc in Forensic Phonetics programme at the Department of Language and Linguistic Science, University of York, UK, in 2022.\r\nResearch Interests\r\nAs an enthusiastic researcher with a strong background in Phonetology (i.e., phonetics and phonology), I am deeply interested in exploring both the abstract and physical properties of speech sounds, as well as their practical applications in fields such as forensic speaker analysis and automatic speech recognition (ASR) technology.\r\nAreas of Interest\r\nI am particularly interested in investigating speech sound variation within the following frameworks:\r\nAcoustic and Articulatory Phonetics\r\nSociophonetics and Forensic Phonetics\r\nCognitive Phonetics and Phonology\r\nTheoretical and Laboratory Phonology\r\nSpeech Synthesis and Speech Processing\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-06-19T05:50:57+05:30"
     }
   ],
   "collections": []

@@ -1,10 +1,32 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About"
+site: distill::distill_website
+output:
+  distill::distill_article:
+    css: about.css
 ---
+## Bio
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+My name is **Anugil Velayudhan**, and I am from *Palakkad, Kerala, India*. I began my academic journey in the natural sciences, completing a **B.Sc in Chemistry** at *Government College Chittur, Palakkad*, in **2016**. However, my academic interests took an unexpected yet intellectually rewarding turn when I developed a keen interest in language and linguistics.
+
+I went on to pursue an **M.A. in Linguistics** at the *Department of Linguistics, University of Kerala* and completed the programme in **2020**. Immediately after, I continued with an **M.Phil. in Linguistics** at the same department. During these years, I had the opportunity to work in the department’s **Phonetics Laboratory**, where I gained practical experience in **speech analysis**.
+
+Initially, my research focused on qualitative aspects of language. However, I soon became aware of the critical gaps in phonetic studies in Malayalam, a Dravidian language and my mother tongue. This realization led me to shift my focus toward **experimental phonetics and phonology**, with an aim to contribute to the systematic and empirical study of underrepresented languages. 
+
+To further strengthen my research and analytical skills, I joined the **MSc in Forensic Phonetics** programme at the *Department of Language and Linguistic Science, University of York, UK*, in **2022**.
+
+## Research Interests
+
+As an enthusiastic researcher with a strong background in **Phonetology** (i.e., phonetics and phonology), I am deeply interested in exploring both the **abstract** and **physical properties** of speech sounds, as well as their **practical applications** in fields such as **forensic speaker analysis** and **automatic speech recognition (ASR) technology**.
+
+### Areas of Interest
+
+I am particularly interested in investigating speech sound variation within the following frameworks:
+
+- **Acoustic and Articulatory Phonetics**
+- **Sociophonetics and Forensic Phonetics**
+- **Cognitive Phonetics and Phonology**
+- **Theoretical and Laboratory Phonology**
+- **Speech Synthesis and Speech Processing**
+
 
