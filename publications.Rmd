@@ -8,4 +8,4 @@ output:
 
 ### 📄 Conference Abstracts [Peer-reviewed]
 
-- **Velayudhan, A.**, Surendran, S., & H. S., R. K. (2025). *Production of long and short vowels in Malayalam*. *UKIS Book of Abstracts*, 39. **[Abstract (PDF)](Publications/UKISAbstract2025.pdf)**
+- **Velayudhan, A.**, Surendran, S., & H. S., R. K. (2025). *Production of long and short vowels in Malayalam*. *UKIS Book of Abstracts*, 39. **[Abstract (PDF)](Publications/UKISAbstract2025.pdf)** **[Poster (PDF)](Publications/UKISPoster2025.pdf)**
